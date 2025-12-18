@@ -1,0 +1,18 @@
+{
+  "short_name": "FlappyUltra",
+  "name": "Flappy Bird Ultra Edition",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/528/528076.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#70c5ce",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#70c5ce",
+  "orientation": "portrait"
+}
+
